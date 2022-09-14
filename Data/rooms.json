@@ -1,0 +1,52 @@
+[
+    {
+        "room_no": 10,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":870
+    },
+    {
+        "room_no": 11,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":670
+    },
+    {
+        "room_no": 13,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":910
+    },
+    {
+        "room_no": 14,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":1070
+    },
+    {
+        "room_no": 15,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":770
+    },
+    {
+        "room_no": 16,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":810
+    },
+    {
+        "room_no": 17,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":865
+    },
+    {
+        "room_no": 18,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":990
+    },
+    {
+        "room_no": 19,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":890
+    },
+    {
+        "room_no": 20,
+        "amenties":["Two Beds","Tv","Fridge","Ac","twoFans"],
+        "Price-1-hour":1270
+    }
+]

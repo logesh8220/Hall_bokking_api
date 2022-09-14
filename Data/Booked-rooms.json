@@ -1,0 +1,202 @@
+[
+    {
+        "customer_name": "aakash",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "Razak",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "11"
+    },
+    {
+        "customer_name": "Randy",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "arun",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "ritish",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "nikil",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "riyas",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "ashik",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "antony",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "Razak",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "11"
+    },
+    {
+        "customer_name": "Randy",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "arun",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "ritish",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "nikil",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "riyas",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "ashik",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "antony",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "Razak",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "11"
+    },
+    {
+        "customer_name": "Randy",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "arun",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "ritish",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "nikil",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "riyas",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "ashik",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    },
+    {
+        "customer_name": "antony",
+        "status": "booked",
+        "date": "12-8-2022 _ 13-8-2022",
+        "start_time": "10.00am",
+        "end-time": "10.00am",
+        "room_no": "10"
+    }
+]
