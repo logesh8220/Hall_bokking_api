@@ -5,19 +5,19 @@ app.use(express.json())
 
 
 app.get("/rooms", function (req, res) {
-    fs.readFile("./rooms.json", function (err, data) {
+    fs.readFile("./room.json", function (err, data) {
         if (err) throw err;
         res.send(data)
     })
 });
 
-app.get("/bookedrooms", function (req, res) {
+app.get("/rooms/bookedrooms", function (req, res) {
     fs.readFile("./booked-rooms.json", function (err, data) {
         if (err) throw err;
         res.send(data)
     })
 });
-app.get("/bookedcustomers", function (req, res) {
+app.get("/rooms/bookedrooms/bookedcustomers", function (req, res) {
     fs.readFile("./booked-customers.json", function (err, data) {
         if (err) throw err;
         res.send(data)
