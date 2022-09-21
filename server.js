@@ -3,6 +3,12 @@ const app = express()
 var fs = require("fs")
 app.use(express.json())
 
+app.get("/", function (req, res) {
+ 
+
+        res.send("Hall_bokkings")
+    
+});
 
 app.get("/rooms", function (req, res) {
     fs.readFile("./room.json", function (err, data) {
